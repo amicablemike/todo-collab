@@ -1,0 +1,7 @@
+services: 
+  mongo-db:
+    image: 
+    container_name: 
+    ports:
+      - "27038:27017" 
+    environment:
